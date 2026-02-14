@@ -1,0 +1,7 @@
+{
+  "name": "RAPID-X Emergency Intelligence Engine",
+  "description": "An advanced national-level emergency response orchestration simulator powered by Gemini. Features real-time triage, distress detection, and resource optimization.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
